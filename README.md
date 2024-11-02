@@ -6,3 +6,5 @@ TRABALHO 06-09: Trabalho da matéria de Programação Orientada a Objetos do pro
   Desvio padrão
   Juros compostos
   Classes UML
+
+RelogioAngulo: Código básico que realiza o cálculo entre os dois ponteiros de um relógio
